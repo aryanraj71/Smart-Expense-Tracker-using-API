@@ -32,12 +32,12 @@ Built with **React (Vite) + Tailwind** for the frontend and **Node.js + Express 
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone Repository
-```bash
+1. Clone Repository
+```bash 
 git clone https://github.com/aryanraj71/Smart-Expense-Tracker-using-API.git
 cd Smart-Expense-Tracker-using-API
 
-**### 2. Backend**
+2. Backend
 cd backend
 npm install
 
@@ -51,12 +51,7 @@ JWT_SECRET=your_jwt_secret
 Start backend:
 npm start
 
-### Node.js (Plaid API Integration)
-cd node-backend
-npm install
-node index.js
-
-**### 2. Frontend Setup**
+3. Frontend Setup
 cd frontend
 npm install
 npm run dev
