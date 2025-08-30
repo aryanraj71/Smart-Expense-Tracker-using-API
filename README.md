@@ -32,8 +32,8 @@ Built with **React (Vite) + Tailwind** for the frontend and **Node.js + Express 
 
 ## ⚙️ Installation & Setup
 
+```bash
 1. Clone Repository
-```bash 
 git clone https://github.com/aryanraj71/Smart-Expense-Tracker-using-API.git
 cd Smart-Expense-Tracker-using-API
 
